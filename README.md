@@ -15,9 +15,9 @@ treats test stubs as first-class citizens so unit testing is super-easy.)
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage): Image Response Serializers + an lot more.
 
 # Things to improve
-[] Error handling - Just handled the extreme bare-minimum based on what I managed to make fail in the provided API.
-[] Unit Test
-[] UI Test
-[] Reachability (no error message for no internet connection)
-[] Image chache
-[] Improving VC creation through something better than VC-managers (they quickly grow in size).
+[] Error handling - Just handled the extreme bare-minimum based on what I managed to make fail in the provided API.  
+[] Unit Test  
+[] UI Test  
+[] Reachability (no error message for no internet connection)  
+[] Image chache  
+[] Improving VC creation through something better than VC-managers (they quickly grow in size).  
